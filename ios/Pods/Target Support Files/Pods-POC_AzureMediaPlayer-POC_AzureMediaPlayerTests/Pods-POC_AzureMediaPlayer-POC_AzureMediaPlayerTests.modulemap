@@ -1,6 +1,0 @@
-module Pods_POC_AzureMediaPlayer_POC_AzureMediaPlayerTests {
-  umbrella header "Pods-POC_AzureMediaPlayer-POC_AzureMediaPlayerTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
